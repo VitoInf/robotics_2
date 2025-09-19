@@ -227,4 +227,4 @@ Feel free to submit issues and enhancement requests. When contributing:
 
 ## Support
 
-For questions and support, please refer to the documentation or create an issue in the repository.
+For questions and support, please refer to the documentation or create an issue in the repository.<img width="1204" height="785" alt="immagine_2025-09-19_110628436" src="https://github.com/user-attachments/assets/6e391dc4-bd8e-43c0-b519-ff59bc4cdd54" />
