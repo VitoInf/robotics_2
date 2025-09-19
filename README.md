@@ -194,6 +194,12 @@ Modify waypoints in `trajectory_generator.py`:
 self.waypoints = np.array([[x1, y1], [x2, y2], [x3, y3], [x4, y4]])
 ```
 
+## Custom Time
+Modify time in `trajectory_generator.py`:
+```python
+self.times = np.array([0.0, 15.0, 30.0, 40.0])
+```
+
 ### Sensor Configuration
 Adjust sensor parameters in the robot SDF model files for different detection ranges and accuracies.
 
